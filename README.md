@@ -10,4 +10,4 @@ and plot markers accordingly.
 Then there is also a feature to upload an excel file that contains lat,longs that is already geocoded and plots all of them onto 
 the GMaps. And much more ..
 
-Just another IT geek tyrna make it :)
+Just another IT geek tryna make it :)
