@@ -1,4 +1,4 @@
-# GeoCodeAppFinal
+# GeoCodeApp
 A C#.NET project with interactive GUI that easily geocodes human read-able addresses into respective lat,longs and plot marker 
 accordingly, and much more ..
 
