@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJLyYmr6HrLToR868_HC4nbgw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJLyYmr6HrLToR868_HC4nbgw",
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 19.5612062,
+               "lng" : 80.6435623
+            },
+            "southwest" : {
+               "lat" : 19.5611696,
+               "lng" : 80.6435494
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "4 m",
+                  "value" : 4
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 1
+               },
+               "end_address" : "442704, India",
+               "end_location" : {
+                  "lat" : 19.5612062,
+                  "lng" : 80.6435623
+               },
+               "start_address" : "442704, India",
+               "start_location" : {
+                  "lat" : 19.5611696,
+                  "lng" : 80.6435494
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "4 m",
+                        "value" : 4
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 1
+                     },
+                     "end_location" : {
+                        "lat" : 19.5612062,
+                        "lng" : 80.6435623
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ipkvBeuekNGA"
+                     },
+                     "start_location" : {
+                        "lat" : 19.5611696,
+                        "lng" : 80.6435494
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ipkvBeuekNGA"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
